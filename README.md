@@ -110,9 +110,7 @@ The app works with any bank that exports CSV files with the standard format. Tes
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
